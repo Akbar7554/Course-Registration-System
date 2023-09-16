@@ -5,7 +5,6 @@ import PropTypes from "prop-types";
 
 const Courses = ({handleSelectItems}) => {
     // console.log(handleSelectItems);
-    
     const [courses, setCourses] = useState([]);
     useEffect(() => {
         fetch("courses.json")
