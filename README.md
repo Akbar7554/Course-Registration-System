@@ -10,3 +10,10 @@ Currently, two official plugins are available:
 
 
 
+
+
+#Add at least 3 Project features
+- Here User can select the courses which is provided in browser.
+- User can't select multiple courses at a time. When user want to select multiple courses it will show a error toast in browser top.
+- When User Select all courses user see his course information or title in right side in browser. Here credit limit is 20hr When user limit is fill up user can't select courses. It will show error limit exist.
+
