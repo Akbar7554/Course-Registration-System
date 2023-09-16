@@ -5,7 +5,6 @@ const ShowCourse = ({showCourse, index}) => {
         <ol>
             <li className='text-lg font-medium text-gray-500'>{++index}. {courseTitle}</li>
         </ol>
-        
     );
 };
 ShowCourse.propTypes = {
