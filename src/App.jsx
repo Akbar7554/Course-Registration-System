@@ -61,7 +61,7 @@ function App() {
     <>
         <Header></Header>
         <ToastContainer></ToastContainer>
-        <div className='flex gap-10 w-[90%] mx-auto'>
+        <div className='flex gap-10 w-[90%] mx-auto mb-20'>
             <Courses handleSelectItems={handleSelectItems}></Courses>
             <CourseInformation 
             selectItems={selectItems}
