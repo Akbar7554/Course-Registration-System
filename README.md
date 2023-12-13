@@ -23,3 +23,5 @@ Currently, two official plugins are available:
 #Discuss how you managed the state in your assignment project.
 
 In this Project Firstly i create some Fake Api by helping browser and chatgpt then i stored it in my public folder. After that i create component folder which is best practice as a fresh coder to organize my code. I use useState to declare some Props and get in to different file like course.jsx, showCourse.jsx etc. I use useEffect Hook to perform side effects in my components. In this project i use tailwind css to styling my code which is much suitable for me. At last i create dist folder to deploy my website in netlify and Push the code in a private repository.
+
+# Project-link: <https://bright-halva-134e87.netlify.app/>
